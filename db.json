@@ -1,0 +1,46 @@
+{
+    "images": [
+        {
+            "id": 1,
+            "title": "Mountain View",
+            "description": "Beautiful mountain landscape at sunset",
+            "image": "https://images.unsplash.com/photo-1506744038136-46273834b3fb",
+            "date": "2023-06-15"
+        },
+        {
+            "id": 2,
+            "title": "Ocean Sunset",
+            "description": "Sun setting over the ocean horizon",
+            "filename": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df",
+            "date": "2023-05-20"
+        },
+        {
+            "id": 3,
+            "title": "Forest Path",
+            "description": "Serene path through a dense forest",
+            "filename": "https://images.unsplash.com/photo-1448375240586-882707db888b",
+            "date": "2023-07-10"
+        },
+        {
+            "id": 4,
+            "title": "City Skyline",
+            "description": "Modern city skyline at night",
+            "filename": "https://images.unsplash.com/photo-1477959858617-67f85cf4f1df",
+            "date": "2023-04-05"
+        },
+        {
+            "id": 5,
+            "title": "Desert Dunes",
+            "description": "Golden sand dunes in the desert",
+            "filename": "https://images.unsplash.com/photo-1509316785289-025f5b846b35",
+            "date": "2023-08-22"
+        },
+        {
+            "id": 6,
+            "title": "Waterfall",
+            "description": "Majestic waterfall in the jungle",
+            "filename": "https://images.unsplash.com/photo-1511497584788-876760111969",
+            "date": "2023-09-18"
+        }
+    ]
+}
