@@ -59,7 +59,7 @@ Make sure you have a modern browser (e.g., Chrome, Firefox) to run the applicati
 ### Running Locally
 1. Clone the repository:
    ```bash
-   git clone https://github.com/FahmyyyAhmed/image-gallery.git
+   git clone https://github.com/FahmyyAhmed/image-gallery.git
    cd image-gallery
    ```
 
