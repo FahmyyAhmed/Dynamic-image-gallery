@@ -2,6 +2,9 @@
 
 This is an interactive image gallery web application built using **HTML**, **CSS**, and **JavaScript**. The gallery allows users to view, add, edit, delete, and filter images dynamically. The application interacts with a backend API to fetch and manage image data, but also includes a fallback using sample data in case the server is unavailable.
 
+# Website Link
+https://fahmyyahmed.github.io/Dynamic-image-gallery/
+
 ## Features
 - **Image Gallery:** View a dynamic gallery of images with titles, descriptions, categories, and photographer information.
 - **Add/Edit Image:** Users can add new images or edit existing ones using a modal form.
